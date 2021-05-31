@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         CHT2CHS
+// @name         繁简转换
 // @namespace    https://github.com/wenq1217/chinese_t2s/
 // @version      0.15.1
 // @description  中文网页繁简体转换油猴脚本
-// @author       高压锅 (12736433@qq.com)
+// @author       Welkin
 // @license      Mozilla Public License Version 2.0
 // @match        http*://*/*
 // @grant        none
