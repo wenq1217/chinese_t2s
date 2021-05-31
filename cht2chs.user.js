@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         繁简转换
 // @namespace    https://github.com/wenq1217/chinese_t2s/
-// @version      0.15.1
+// @version      0.15.2
 // @description  中文网页繁简体转换油猴脚本
 // @author       Welkin
 // @license      Mozilla Public License Version 2.0
