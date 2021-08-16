@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         繁简转换
 // @namespace    https://github.com/wenq1217/chinese_t2s/
-// @version      0.15.3
+// @version      0.15.4
 // @description  中文网页繁简体转换油猴脚本
 // @author       Welkin
 // @license      Mozilla Public License Version 2.0
@@ -654,9 +654,21 @@
                 '董欸':'董々',
                 '黑欸':'黑々',
                 '白欸':'白々',
+                '夏欸':'夏々',
                 'C槽':'C盘',
                 'D槽':'D盘',
                 'E槽':'E盘',
+                '资料夹':'文件夹',
+                '':'',
+                '':'',
+                '':'',
+                '':'',
+                '':'',
+                '':'',
+                '':'',
+                '':'',
+                '':'',
+                '':'',
                 '':'',
             };
             this.cssExcludeWords = [
